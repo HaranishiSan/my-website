@@ -3,6 +3,4 @@
 This is really awesome project no. again
 Edit on example branch
 
-Now editing on update-readme branch
-
-Updated locally
+Updates made on Github before rebase
